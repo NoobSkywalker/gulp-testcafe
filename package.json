@@ -54,7 +54,7 @@
     "gulp-util": "^3.0.7",
     "lodash.defaults": "^4.2.0",
     "lodash.flatten": "^4.4.0",
-    "testcafe": "latest",
+    "testcafe": "0.22.0",
     "through2": "^2.0.1"
   },
   "devDependencies": {
